@@ -1,3 +1,4 @@
+--Longo Development--
 Citizen.CreateThread(function()
 local Sniper = false 
 local SniperHash = 100416529
